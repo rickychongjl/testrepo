@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rickychongjl/testrepo.git"
+    "url": "https://github.com/rickychongjl/testrepo.git"
   },
   "author": "",
   "license": "ISC",
